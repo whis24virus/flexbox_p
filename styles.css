@@ -83,13 +83,14 @@
     border: 1px solid #fff;
     background-color: #D6E9FE;
     height: 200px;
-    flex: 1
+    width: 500px;
+    flex: none;
   }
   
   .footer-one,
 .footer-three {
   background-color: #5995DA;
-  flex: initial;
+  flex: 1 1;
   width: 300px;
 }
 .signup {
